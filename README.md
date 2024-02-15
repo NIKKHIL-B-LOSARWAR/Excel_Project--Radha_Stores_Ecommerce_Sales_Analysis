@@ -9,7 +9,6 @@
 
 ## Project Theam or Problem Statement:
 
-![Thsis is Screenshot-1...] (/Final%20dashboard%20(screenshot)-1.png)
 
 * aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 * aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
