@@ -1,4 +1,4 @@
-# Project: Radha Store's E-commerce Annual Sales Analysis Report
+# Radha Store's E-commerce Sales Analysis Report
 
 ## Preview (Screenshots):
 
